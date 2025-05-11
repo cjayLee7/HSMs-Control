@@ -1,4 +1,4 @@
-%生成目标曲线
+%Generate trajectory curves
 clear;clc;
 t=[0:0.0005:1.5]';
 for x= 1:length(t)
